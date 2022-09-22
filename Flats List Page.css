@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-page-img {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 760px;
+    width: 427px;
+    background-size: cover;
+}
+
+.main-page-card {
+    background-color: #ffffff;
+    height: 280px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.main-page-text {
+    padding-top: 60px;
+    text-align: center;
+}
+
+.main-page-h-tag {
+    color: #f19116;
+    font-family: 'Bree Serif';
+}
+
+.main-page-p-tag {
+    color: #7b8794;
+    font-family: 'Bree Serif';
+    font-size: 19px;
+}
+
+.main-page-button-tag {
+    background-color: #f19116;
+    color: #ffffff;
+    font-family: 'Bree Serif';
+    border-radius: 5px;
+    margin-top: 3em;
+    height: 3em;
+    width: 8em;
+    border: 0px;
+}
+
+.page-2-button-tag {
+    background-color: #f19116;
+    color: #ffffff;
+    font-family: 'Bree Serif';
+    border-radius: 5px;
+    margin-top: 3em;
+    margin-left: 15px;
+    height: 3em;
+    width: 8em;
+    border: 0px;
+}
+
+.page-2 {
+    background-color: #222222;
+    height: 850px;
+    width: 427px;
+}
+
+.page-2-card-img {
+    height: 12em;
+    width: 7em;
+}
+
+.page-2-p-tag {
+    color: #0f0e46;
+    font-family: 'Bree Serif';
+    font-weight: bold;
+    margin-left: 15px;
+    padding-top: 0.3em;
+    width: 5em;
+}
+
+.page-2-h-tag {
+    color: #7b8794;
+    font-family: 'Bree Serif';
+    margin-left: 15px;
+    margin-right: 4px;
+}
+
+.page-2-box {
+    margin: 1em;
+    background-color: #ffffff;
+    border-radius: 12px;
+    height: 12em;
+}
+
+.h-tags-page-2 {
+    color: #f19116;
+    font-family: 'Bree Serif';
+    margin-left: 15px;
+    padding-top: 1em;
+}
+
+.page-3-img {
+    width: 26.8em;
+}
+
+.page-3-icon {
+    width: 2em;
+
+}
+
+.page-3-p-tag {
+    color: #ffffff;
+    margin-top: 5px;
+    margin-left: 8px;
+    font-family: 'Bree Serif';
+}
+
+.co {
+    background-color: #ffffff;
+    height: 2px;
+    margin: 15px;
+}
+
+.page-3-button-div {
+    margin: 15px;
+    height: 3em;
+    width: 8em;
+    background-color: #f19116;
+    color: #ffffff;
+    font-family: 'Bree Serif';
+    border-radius: 5px;
+}
+
+.page-3-p-tag-2 {
+    margin: 15px;
+    color: #f19116;
+    font-family: 'Bree Serif';
+}
+
+.page-3-p-div-1 {
+    margin: 15px;
+}
+
+.page-3-h-tag {
+    color: #ffffff;
+    font-family: 'Bree Serif';
+    margin-left: 15px;
+    margin-right: 4px;
+}
