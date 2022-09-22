@@ -1,7 +1,5 @@
 # Flats-Page
 
-https://assets.ccbp.in/frontend/content/static-website/flats-output.gif
-
 CSS Colors used:
 
 📍Background color Hex Code values:
