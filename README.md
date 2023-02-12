@@ -1,6 +1,6 @@
 # Flats-Page-Web-Design
 
-- Flats Page Web Design
+- Flat Page Web Design and Static Page 
 
 CSS Colors used:
 
